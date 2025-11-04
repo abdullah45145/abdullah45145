@@ -1,5 +1,5 @@
 #✨💫 Hi 👋, I'm Abdullah
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Frontend Engineer || Computer Science studend , from Pakistan **
 
 Email Me 👉 ✉️ **chabdullahok451@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
