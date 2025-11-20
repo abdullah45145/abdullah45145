@@ -1,4 +1,4 @@
-#✨💫 Hi 👋, I'm Abdullah
+#✨💫 Hi 👋, I'm Abdullah 
 **A passionate Frontend Engineer || Computer Science studend , from Pakistan **
 
 Email Me 👉 ✉️ **chabdullahok451@gmail.com** For Collaboration/Project or Anything Else. 😊😊
