@@ -3,13 +3,13 @@
 
 Email Me 👉 ✉️ **chabdullahok451@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Instagram clone
+- 🔭 **I’m currently working on:** Neugas App
 - 🌱 **I’m currently learning:** Three js
 - 👯 **I’m looking to collaborate on:** High Industrial Companies
 - 🤔 **I’m looking for help with:** Supportive People
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** chabdullahok451@gmail.com
-- 😄 **Pronouns:** Muhammad Abdullah
+- 😄 **Pronouns:** Abdullah
 - ⚡ **Fun fact:** I Love programming and learning it
 
 
