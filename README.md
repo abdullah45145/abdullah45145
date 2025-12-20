@@ -1,7 +1,7 @@
 #✨💫 Hi 👋, I'm Abdullah 
 **A passionate Frontend Engineer || Computer Science studend , from Pakistan **
    
-Email Me 👉 ✉️ **chabdullahok451@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **chabdullahok451@gmail.com** For Collaboration/Project or Anything Else. 😊😊  
 
 - 🔭 **I’m currently working on:** Zomato App
 - 🌱 **I’m currently learning:** Three js  
