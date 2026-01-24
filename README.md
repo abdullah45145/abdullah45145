@@ -1,9 +1,9 @@
 #✨💫 Hi 👋, I'm Abdullah 
-**A passionate Frontend Engineer || Computer Science studend , from Pakistan **
+**A passionate software Engineer || Computer Science studend , from Pakistan **
    
 Email Me 👉 ✉️ **chabdullahok451@gmail.com** For Collaboration/Project or Anything Else. 😊😊  
 
-- 🔭 **I’m currently working on:** AIBook-Buider
+- 🔭 **I’m currently working on:** Neugas 
 - 🌱 **I’m currently learning:** Three js  
 - 👯 **I’m looking to collaborate on:** High Industrial Companies 
 - 🤔 **I’m looking for help with:** Supportive People
