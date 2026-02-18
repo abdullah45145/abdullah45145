@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **chabdullahok451@gmail.com** For Collaboration/Project or Anything Else. 😊😊  
 
 - 🔭 **I’m currently working on:** Neugas 
-- 🌱 **I’m currently learning:** Three js  
+- 🌱 **I’m currently learning:** Next js  
 - 👯 **I’m looking to collaborate on:** High Industrial Companies 
 - 🤔 **I’m looking for help with:** Supportive People
 - 💬 **Ask me about:** Collaboration, Tech Support 
