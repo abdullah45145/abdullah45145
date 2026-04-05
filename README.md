@@ -11,7 +11,7 @@ My portfolio : https://chabbyportfolio.vercel.app
 - 💬 **Ask me about:** Collaboration, Tech Support 
 - 📫 **How to reach me:** chabdullahok451@gmail.com  
 - 😄 **Pronouns:** Abdullah
-- ⚡ **Fun fact:** I Love programming and learning it 
+- ⚡ **Fun fact:** I Love programming and learning it  
 
 
 ## 🏆 GitHub Trophies
