@@ -2,7 +2,7 @@
 **A passionate software Engineer || Computer Science studend , from Pakistan ** 
     
 Email Me 👉 ✉️ **chabdullahok451@gmail.com** For Collaboration/Project or Anything Else. 😊😊  
-My portfolio : https://chabbyportfolio.vercel.app
+My portfolio : https://chabbyportfolio.vercel.app 
  
 - 🔭 **I’m currently working on:** Maidaan.com  
 - 🌱 **I’m currently learning:** Next js   
