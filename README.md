@@ -13,7 +13,7 @@ My portfolio : https://chabbyportfolio.vercel.app
 - 😄 **Pronouns:** Abdullah
 - ⚡ **Fun fact:** I Love programming and learning it   
 
-
+ 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abdullah45145&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
