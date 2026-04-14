@@ -6,7 +6,7 @@ My portfolio : https://chabbyportfolio.vercel.app
  
 - 🔭 **I’m currently working on:** Maidaan.com  
 - 🌱 **I’m currently learning:** Next js   
-- 👯 **I’m looking to collaborate on:** High Industrial Companies  
+- 👯 **I’m looking to collaborate on:** High Industrial Companies   
 - 🤔 **I’m looking for help with:** Supportive People
 - 💬 **Ask me about:** Collaboration, Tech Support 
 - 📫 **How to reach me:** chabdullahok451@gmail.com  
