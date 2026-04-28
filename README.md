@@ -171,10 +171,7 @@ My portfolio : https://chabbyportfolio.vercel.app
 </p>
 <!-- activity graph heroku-app end -->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ishandutta2007&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=abdullah45145&icon=0&color=0)](https://visitcount.itsvg.in)
+### 👀 Profile Views
+![Visitor Count](https://komarev.com/ghpvc/?username=abdullah45145&label=Profile%20views&color=0e75b6&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
