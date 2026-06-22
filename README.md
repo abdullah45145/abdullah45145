@@ -171,7 +171,7 @@ My portfolio : https://chabbyportfolio.vercel.app
 </p>
 <!-- activity graph heroku-app end -->
 
-### 👀 Profile Views
+### Profile Views
 ![Visitor Count](https://komarev.com/ghpvc/?username=abdullah45145&label=Profile%20views&color=0e75b6&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
