@@ -1,7 +1,7 @@
 # Hi 👋, I'm Abdullah     
 **A passionate software Engineer || Computer Science student , from Pakistan**     
      
-Email Me 👉 ✉️ **chabdullahok451@gmail.com** For Collaboration/Project or Anything Else. 😊😊   
+Email Me 👉 ✉️ **chabdullahok451@gmail.com** For Collaboration/Project or Anything Else. 😊😊    
 My portfolio : https://chabbyportfolio.vercel.app 
    
 - 🔭 **I’m currently working on:** IT service Desk    
